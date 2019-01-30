@@ -61,3 +61,19 @@ a:hover {
 td {
   padding: 20px;
 }
+
+#sidebar {
+  position: fixed;
+  width: 50px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+#page-content {
+  margin-left: 50px;
+}
+
+#sidebar ul li {
+  padding: 25px;
+  font-size: 25px;
+}
