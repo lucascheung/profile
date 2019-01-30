@@ -1,0 +1,63 @@
+body {
+  background-color: #33313b;
+  color: #dfdfdf;
+  text-align: center;
+
+}
+
+h1, h2, h3 {
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+h1 {
+  color: #ffc300;
+  font-size: 45px;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  color:#bbbbbb;
+}
+
+#logo-sq {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.img-size {
+  width: 200px;
+}
+
+
+.container {
+  width: 700px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+ul {
+  padding-left: 0;
+  padding-top: 20px;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 25px;
+}
+
+
+a {
+  text-decoration: none;
+  color: #dfdfdf;
+}
+
+a:hover {
+  color: #ffc300;
+}
+
+
+td {
+  padding: 20px;
+}
